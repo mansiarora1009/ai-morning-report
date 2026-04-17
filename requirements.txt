@@ -1,0 +1,1 @@
+# morning_report.py uses Python stdlib only — no extra packages needed
